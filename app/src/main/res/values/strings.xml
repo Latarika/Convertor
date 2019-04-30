@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Convertor</string>
+    <string name="in_app_name">Конвертер</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
